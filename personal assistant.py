@@ -1,12 +1,12 @@
-import pyttsx3  #  text to speech
-import pywhatkit #r sending messages automatically to someone's WhatsApp mobile number.
+import pyttsx3       # text to speech
+import pywhatkit     # sending messages automatically to someone's WhatsApp mobile number.
 import speech_recognition as sr  # speechRecognition
 import datetime
-import wikipedia  # pip install wikipedia
+import wikipedia      # pip install wikipedia
 import webbrowser
-import ctypes # Since this library handles compiled code, it is relatively OS dependent.
-import sys #provides information about constants, functions and methods of the Python interpreter
-import subprocess #allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return code
+import ctypes         # Since this library handles compiled code, it is relatively OS dependent.
+import sys            # provides information about constants, functions and methods of the Python interpreter
+import subprocess     # allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return code
 
 import os
 
